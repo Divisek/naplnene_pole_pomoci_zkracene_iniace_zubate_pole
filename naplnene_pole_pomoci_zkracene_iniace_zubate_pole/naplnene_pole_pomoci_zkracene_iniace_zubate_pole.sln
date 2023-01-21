@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naplnene_pole_pomoci_zkracene_iniace_zubate_pole", "naplnene_pole_pomoci_zkracene_iniace_zubate_pole\naplnene_pole_pomoci_zkracene_iniace_zubate_pole.csproj", "{0B417B49-1123-462E-A0CD-19480F3BC266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B417B49-1123-462E-A0CD-19480F3BC266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B417B49-1123-462E-A0CD-19480F3BC266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B417B49-1123-462E-A0CD-19480F3BC266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B417B49-1123-462E-A0CD-19480F3BC266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11FCCB2-69F8-485E-8A6C-D07488FD127B}
+	EndGlobalSection
+EndGlobal

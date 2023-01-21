@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "naplnene_pole_pomoci_zkracene_iniace_zubate_pole/1.0.0": {
+        "runtime": {
+          "naplnene_pole_pomoci_zkracene_iniace_zubate_pole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "naplnene_pole_pomoci_zkracene_iniace_zubate_pole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
